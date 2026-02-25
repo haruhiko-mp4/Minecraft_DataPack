@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "instrument=banjo,note=24,powered=false": {
+      "model": "minecraft:block/robo_model"
+    }
+  }
+}
