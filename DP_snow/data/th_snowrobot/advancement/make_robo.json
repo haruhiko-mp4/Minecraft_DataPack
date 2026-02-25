@@ -1,0 +1,20 @@
+{
+  "display": {
+    "title": "メンテナンスが大事",
+    "description": "snow renchを作成する",
+    "icon": {
+      "id": "snowball"
+    }
+  },
+  "criteria": {
+    "crafted_snow_rench": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "th_snowrobot:robo_recipe"
+      }
+    }
+  },
+  "rewards": {
+    "function": "th_snowrobot:craft"
+  }
+}

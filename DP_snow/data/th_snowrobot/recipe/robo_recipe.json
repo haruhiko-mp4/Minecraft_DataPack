@@ -1,0 +1,24 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " RP",
+    "DID",
+    "PH "
+  ],
+  "key": {
+    "R": "minecraft:redstone",
+    "P": "minecraft:powder_snow_bucket",
+    "D": "minecraft:diamond",
+    "I": "minecraft:iron_ingot",
+    "H": "minecraft:hopper"
+  },
+  "result": {
+    "id": "minecraft:stick",
+    "components": {
+      "minecraft:custom_model_data": {"strings": ["snow_rench"]},
+      "minecraft:item_model": "th_snowrobot_rp:snow_rench",
+      "minecraft:rarity": "rare",
+      "minecraft:custom_name": "snow rench"
+    }
+  }
+}
