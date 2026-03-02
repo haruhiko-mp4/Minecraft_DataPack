@@ -1,0 +1,8 @@
+Permission is granted to use this software for personal, non-commercial purposes.
+
+Modification of the source code is permitted solely for personal use on a local environment.
+Any modified versions may not be distributed, published, or made available to third parties.
+
+Redistribution of the original or modified software, in source or binary form, is prohibited.
+
+Commercial use of this software or any derivative work is prohibited.
